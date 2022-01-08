@@ -1,7 +1,7 @@
 <?php
 
 ?>
-<html lang="ang">
+<html lang="en">
   <head></head>
   <body></body>
 </html>
